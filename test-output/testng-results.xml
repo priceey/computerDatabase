@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-21T20:02:52Z" name="Default suite" finished-at="2019-08-21T20:04:27Z" duration-ms="94112">
+    <groups>
+    </groups>
+    <test started-at="2019-08-21T20:02:52Z" name="Default test" finished-at="2019-08-21T20:04:27Z" duration-ms="94112">
+      <class name="Test.BackbaseTestSuite">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:02:52Z" name="setup" finished-at="2019-08-21T20:02:59Z" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestCreateNewComputer()[pri:1, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:02:59Z" name="TestCreateNewComputer" finished-at="2019-08-21T20:03:02Z" duration-ms="2293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreateNewComputer -->
+        <test-method signature="TestReadComputerData()[pri:2, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:03:02Z" name="TestReadComputerData" finished-at="2019-08-21T20:03:23Z" duration-ms="21347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReadComputerData -->
+        <test-method signature="TestUpadateRecord()[pri:3, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:03:23Z" name="TestUpadateRecord" finished-at="2019-08-21T20:03:47Z" duration-ms="23818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUpadateRecord -->
+        <test-method signature="TestDeleteRecord()[pri:4, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:03:47Z" name="TestDeleteRecord" finished-at="2019-08-21T20:03:59Z" duration-ms="12259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeleteRecord -->
+        <test-method signature="TestNameValidation()[pri:5, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:03:59Z" name="TestNameValidation" finished-at="2019-08-21T20:04:26Z" duration-ms="26910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNameValidation -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:Test.BackbaseTestSuite@55f616cf]" started-at="2019-08-21T20:04:26Z" name="terminateBrowser" finished-at="2019-08-21T20:04:27Z" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- Test.BackbaseTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
